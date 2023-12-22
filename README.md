@@ -1,6 +1,7 @@
+![MasterHead](https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner-1024x128.png)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">A passionate backend developer from Saudi Arabia</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-7db&label=Profile%20views&color=0e75b6&style=flat" alt="a-7db" /> </p>
 
