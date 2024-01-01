@@ -1,6 +1,6 @@
 ![MasterHead](https://neosmart.net/blog/wp-content/uploads/2019/06/dot-NET-Standard-Banner-1024x128.png)
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">A passionate backend developer from Saudi Arabia</h3>
+<h3 align="center">A passionate Full-stack developer from Saudi Arabia</h3>
 <img align="right" width="260" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-7db&label=Profile%20views&color=0e75b6&style=flat" alt="a-7db" /> </p>
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/a-7db/portfolio](https://github.com/a-7db/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/a-7db/portfolio](https://github.com/a-7db/portfolio](https://ahmed-alhadab.netlify.app/)
 
 - 📝 I regularly write articles on [https://twitter.com/a_7db_](https://twitter.com/a_7db_)
 
 - 💬 Ask me about **C#, Flutter, and .NET**
 
-- 📫 How to reach me **ahmed97874@gmail.com**
+- 📫 How to reach me **haddabaa@gmail.com**
 
 - ⚡ Fun fact **I think I'm passionate about Microsoft technologies**
 
