@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [https://github.com/a-7db/portfolio](https://github.com/a-7db/portfolio](https://ahmed-alhadab.netlify.app/)
+- 👨‍💻 All of my projects are available at [ahmed-alhadab.app](https://ahmed-alhadab.netlify.app/)
 
 - 📝 I regularly write articles on [https://twitter.com/a_7db_](https://twitter.com/a_7db_)
 
