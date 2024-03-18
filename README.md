@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/a_7db_" target="blank"><img src="https://img.shields.io/twitter/follow/a_7db_?logo=twitter&style=for-the-badge" alt="a_7db_" /></a> </p>
 
-- 🔭 I’m currently working on [attendence-project](https://github.com/a-7db/attendence-project)
+- 🔭 I’m currently working on [super-market-website](https://github.com/a-7db/e-commerce)
 
 - 🌱 I’m currently learning **ASP.NET**
 
