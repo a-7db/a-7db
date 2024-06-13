@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [super-market-website](https://github.com/a-7db/e-commerce)
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **Framer**
 
 - 👨‍💻 All of my projects are available at [ahmed-alhadab.app](https://ahmed-alhadab.netlify.app/)
 
